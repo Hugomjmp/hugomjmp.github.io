@@ -1,7 +1,13 @@
 .body-container {
-    color: #f1f1f1;
+    color: white;
     text-align: center;
 }
+.list-group {
+    color: white;
+}
 .body{
-    color: #f1f1f1;
+    transition-property: rotate;
+    rotate: 360deg;
+    transition-duration: 4s;
+    transition-delay: 0s;
 }
