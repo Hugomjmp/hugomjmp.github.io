@@ -45,8 +45,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "nth-check": "^2.1.1"
-  },
-  "overrides": {
-    "nth-check": "2.1.1"
   }
 }
